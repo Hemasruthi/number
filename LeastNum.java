@@ -28,7 +28,7 @@ public class LeastNum {
             if (a[j] > a[k]) {
                 tmp = a[j];
                 a[j] = a[k];
-                a[k] = tmp;
+                a[k] = tmp;  
             }
         }      
         }
